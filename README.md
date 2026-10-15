@@ -64,4 +64,5 @@ Steer your car to avoid obstacles and other vehicles. The longer you survive, th
 
 **Owais Shaikh**
 BSc IT Student, SM Shetty College, Mumbai
-[LinkedIn profile link] | [GitHub profile link]
+https://www.linkedin.com/in/owais-shaikh-763484294/
+
