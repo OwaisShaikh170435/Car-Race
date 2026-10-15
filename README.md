@@ -21,7 +21,7 @@ A [2D / 3D] car racing game built with [Python / JavaScript / HTML]. Dodge obsta
 
 1. Clone the repository:
 ```
-  
+  https://github.com/OwaisShaikh170435/Car-Race/tree/main
 ```
 2. Install the requirements:
 ```
